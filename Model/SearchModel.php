@@ -1,7 +1,7 @@
 <?php
 
 /*
- * class then provides search on sites
+ * class then provides search on entire sites
  */
 
 class SearchModel {
