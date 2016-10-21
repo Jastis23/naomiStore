@@ -1,0 +1,13 @@
+<div class="sidebar-toggle-box">
+    <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Скрыть панель"></div>
+</div>
+<!--logo start-->
+<a href="admin.php" class="logo"><b>Административная панель</b></a>
+<!--logo end-->
+
+<div class="top-menu">
+    <ul class="nav pull-right top-menu">
+        <!--<li><a class="logout" href="login.html">Logout</a></li>-->
+    </ul>
+</div>
+
